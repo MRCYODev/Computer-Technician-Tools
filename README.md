@@ -5,7 +5,7 @@
 
 - [Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
 - [Software Diagnostic Tools](#-software-diagnostic-tools)
-- [CMD Disk and File System Issues](#-cmd-disk-and-filesystem-issues)
+- [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
 - [Find Courses](#-find-courses)
 - [Platforms](#-platforms)
 - [Fully Free](#-fully-free)
