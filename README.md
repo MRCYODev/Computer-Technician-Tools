@@ -6,10 +6,7 @@
 - [Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
 - [Software Diagnostic Tools](#-software-diagnostic-tools)
 - [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
-- [Find Courses](#-find-courses)
-- [Platforms](#-platforms)
-- [Fully Free](#-fully-free)
-- [Tools](#-tools)
+- [CMD Network and Connectivity Issues](-cmd-network-and-connectivity-issues)
 
 ## [](#menu) Hardware Diagnostic Tools
 
@@ -52,3 +49,35 @@ diskpart
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
 
+## [](#menu) CMD Network and Connectivity Issues
+
+```
+ipconfig help
+```
+```
+netsh winsock reset
+```
+```
+netsh int ip reset
+```
+```
+ping help
+```
+```
+nslookup
+```
+```
+hostname
+```
+```
+tracert help
+```
+```
+arp help
+```
+```
+systeminfo
+```
+```
+netstat
+```
