@@ -48,7 +48,6 @@ diskpart
 ```
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
-# 
 
 ## [](#menu) CMD Network and Connectivity Issues
 
@@ -82,13 +81,35 @@ systeminfo
 ```
 netstat
 ```
-# 
+
+
+### Tools 
+* [Ninite](https://ninite.com/)
+* [Chocolatey](https://chocolatey.org/)
+* [Snappy Driver Origin](https://www.snappy-driver-installer.org/)
+* [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
+* [WinDirStat](https://windirstat.net/) | [WizTree](https://wiztreefree.com/)
+* [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+* [Recuva](https://www.ccleaner.com/recuva)
+* [Disk Drill](https://www.cleverfiles.com/data-recovery-software.html)
+* [TeamViewer](https://www.teamviewer.com)
+* [AnyDesk](https://anydesk.com/)
+
+
+### Anti-Virus
+* [Kaspersky](https://www.kaspersky.com/)
+* [MalwareBytes](https://www.malwarebytes.com/)
+ #### Virus Remover
+-- **[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner)**
+-- **[Eset Online Scanner](https://www.eset.com/int/home/online-scanner/)**
+-- **[HitmanPro](https://www.hitmanpro.com/en-us/hmp)**
+-- **[Housecall Launcher](https://www.trendmicro.com/en_us/forHome/products/housecall.html)**
+-- **[Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)**
+-- **[Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)**
+
+
 ## Submit Updates, Errors, and New Ideas 💡
 
 - **Errors**: If you encounter any errors or issues while using the website, please [submit an issue](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub.
 - **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub!
 
-## Fresh Installation Windows Desktop/Laptop
-### Tools 
-- **NiteNite**  [Ninite](https://ninite.com/) is the easiest way to install software. Pick the apps you want, and the Ninite installer will download and install all of your selected apps at once, automatically. It is 100% hands-free; Ninite automatically rejects browser toolbars and other prepackaged junk.
-- **Chocolatey** [Chocolatey](https://chocolatey.org/) NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind. It is built on top of NuGet command line and the NuGet infrastructure.
