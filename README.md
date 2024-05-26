@@ -6,7 +6,7 @@
 - [Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
 - [Software Diagnostic Tools](#-software-diagnostic-tools)
 - [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
-- [CMD Network and Connectivity Issues](-cmd-network-and-connectivity-issues)
+- [CMD Network and Connectivity Issues](#-cmd-network-and-connectivity-issues)
 
 ## [](#menu) Hardware Diagnostic Tools
 
