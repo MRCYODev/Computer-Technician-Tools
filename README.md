@@ -7,7 +7,7 @@
 - [Software Diagnostic Tools](#-software-diagnostic-tools)
 - [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
 - [CMD Network and Connectivity Issues](#-cmd-network-and-connectivity-issues)
-- [Tools](#-tools)
+- [Tools](#tools)
 - [File Recovery Tools](#-file-recovery-tools)
 - [Boot USB](#-boot-usb)
 - [Anti-Virus](#-anti-virus)
