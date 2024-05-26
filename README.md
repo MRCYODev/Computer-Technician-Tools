@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Computer Technician Tools 🔨</h1>
+<h1 align="center">🛠️ Computer Technician Tools⚙️ </h1>
 <p>Welcome to the Computer-Technician-Tools repository! This collection of tools is designed to assist computer technicians in diagnosing, repairing, and optimizing computers. Whether you're a seasoned professional or just starting out, you'll find valuable utilities here to streamline your workflow and improve efficiency.</p>
 
 ## Menu
@@ -6,7 +6,7 @@
 - [Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
 - [Software Diagnostic Tools](#-software-diagnostic-tools)
 - [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
-- [CMD Network and Connectivity Issues](#-cmd-network-and-connectivity-issues)
+- [CMD Network and Connectivity Issues](-cmd-network-and-connectivity-issues)
 
 ## [](#menu) Hardware Diagnostic Tools
 
@@ -48,6 +48,7 @@ diskpart
 ```
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
+# 
 
 ## [](#menu) CMD Network and Connectivity Issues
 
@@ -81,3 +82,13 @@ systeminfo
 ```
 netstat
 ```
+# 
+## Submit Updates, Errors, and New Ideas 💡
+
+- **Errors**: If you encounter any errors or issues while using the website, please [submit an issue](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub.
+- **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub!
+
+## Fresh Installation Windows Desktop/Laptop
+### Tools 
+- **NiteNite**  [Ninite](https://ninite.com/) is the easiest way to install software. Pick the apps you want, and the Ninite installer will download and install all of your selected apps at once, automatically. It is 100% hands-free; Ninite automatically rejects browser toolbars and other prepackaged junk.
+- **Chocolatey** [Chocolatey](https://chocolatey.org/) NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind. It is built on top of NuGet command line and the NuGet infrastructure.
