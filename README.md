@@ -99,13 +99,13 @@ netstat
 ### Anti-Virus
 * [Kaspersky](https://www.kaspersky.com/)
 * [MalwareBytes](https://www.malwarebytes.com/)
- #### Virus Remover
--- **[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner)**
--- **[Eset Online Scanner](https://www.eset.com/int/home/online-scanner/)**
--- **[HitmanPro](https://www.hitmanpro.com/en-us/hmp)**
--- **[Housecall Launcher](https://www.trendmicro.com/en_us/forHome/products/housecall.html)**
--- **[Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)**
--- **[Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)**
+ ### Virus Remover
+- **[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner)**
+- **[Eset Online Scanner](https://www.eset.com/int/home/online-scanner/)**
+- **[HitmanPro](https://www.hitmanpro.com/en-us/hmp)**
+- **[Housecall Launcher](https://www.trendmicro.com/en_us/forHome/products/housecall.html)**
+- **[Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)**
+- **[Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)**
 
 
 ## Submit Updates, Errors, and New Ideas 💡
