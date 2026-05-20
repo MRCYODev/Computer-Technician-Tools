@@ -1,17 +1,20 @@
 <h1 align="center">🛠️ Computer Technician Tools⚙️ </h1>
-<p>Welcome to the Computer-Technician-Tools repository! This collection of tools is designed to assist computer technicians in diagnosing, repairing, and optimizing computers. Whether you're a seasoned professional or just starting out, you'll find valuable utilities here to streamline your workflow and improve efficiency.</p>
+<p>Welcome to the Computer Technician Tools repository! This collection of tools is designed to assist computer technicians in diagnosing, repairing, and optimizing computers. Whether you're a seasoned professional or just starting out, you'll find valuable utilities here to streamline your workflow and improve efficiency.</p>
+
+<h2 align="center"><p><a href="/src/windows/commands.md">Windows</a></p>/<p><a href="/src/linux/commands.md">Linux</a></p></h2>
 
 ## Menu
 
-- [Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
-- [Software Diagnostic Tools](#-software-diagnostic-tools)
-- [CMD Disk and File System Issues](#-cmd-disk-and-file-system-issues)
-- [CMD Network and Connectivity Issues](#-cmd-network-and-connectivity-issues)
+- [Menu](#menu)
+- [ Hardware Diagnostic Tools](#-hardware-diagnostic-tools)
+- [ Software Diagnostic Tools](#-software-diagnostic-tools)
 - [Tools](#tools)
 - [File Recovery Tools](#file-recovery-tools)
-- [Boot USB](#boot-usb)
+- [Create a bootable USB](#create-a-bootable-usb)
 - [Anti-Virus](#anti-virus)
 - [Virus Remover](#virus-remover)
+- [**Benchmark Software**](#benchmark-software)
+- [Submit Updates, Errors, and New Ideas 💡](#submit-updates-errors-and-new-ideas-)
 
 ## [](#menu) Hardware Diagnostic Tools
 
@@ -39,56 +42,8 @@
 * [TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
 * [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 
-## [](#menu) CMD Disk and File System Issues
 
-```
-chkdsk /f
-```
-```
-sfc /scannow
-```
-```
-diskpart
-```
-```
-DISM /Online /Cleanup-Image /RestoreHealth
-```
-
-## [](#menu) CMD Network and Connectivity Issues
-
-```
-ipconfig help
-```
-```
-netsh winsock reset
-```
-```
-netsh int ip reset
-```
-```
-ping help
-```
-```
-nslookup
-```
-```
-hostname
-```
-```
-tracert help
-```
-```
-arp help
-```
-```
-systeminfo
-```
-```
-netstat
-```
-
-
-### Tools 
+## Tools 
 * [Ninite](https://ninite.com/)
 * [Chocolatey](https://chocolatey.org/)
 * [Snappy Driver Origin](https://www.snappy-driver-installer.org/)
@@ -109,7 +64,7 @@ netstat
 * [Medicat USB](https://medicatusb.com/)
 * [Hiren's BootCD PE](https://www.hirensbootcd.org/)
 
-## Boot USB
+## Create a bootable USB
 * [Rufus](https://rufus.ie)
 * [balenaEtcher](https://etcher.balena.io/)
 * [Ventoy](https://www.ventoy.net/)
@@ -117,7 +72,8 @@ netstat
 ## Anti-Virus
 * [Kaspersky](https://www.kaspersky.com/)
 * [MalwareBytes](https://www.malwarebytes.com/)
- ### Virus Remover
+
+## Virus Remover
 - **[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner)**
 - **[Eset Online Scanner](https://www.eset.com/int/home/online-scanner/)**
 - **[HitmanPro](https://www.hitmanpro.com/en-us/hmp)**
@@ -125,15 +81,10 @@ netstat
 - **[Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)**
 - **[Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)**
 
-## Submit Updates, Errors, and New Ideas 💡
-- **Errors**: If you encounter any errors or issues while using the website, please [submit an issue](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub.
-- **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/salvador-dali-gallery-website/issues) on GitHub!
+## **Benchmark Software**
+* [OCCT](https://www.ocbase.com/)
 
-# Coming Soon
-**Benchmark Software**
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+## Submit Updates, Errors, and New Ideas 💡
+- **Errors**: If you encounter any errors or issues while using the website, please [submit an issue](https://github.com/MRCYODev/Computer-Technician-Tools/issues) on GitHub.
+- **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/Computer-Technician-Tools/issues) on GitHub!
