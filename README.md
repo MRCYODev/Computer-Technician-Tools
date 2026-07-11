@@ -13,7 +13,8 @@
 - [Create a bootable USB](#create-a-bootable-usb)
 - [Anti-Virus](#anti-virus)
 - [Virus Remover](#virus-remover)
-- [**Benchmark Software**](#benchmark-software)
+- [Benchmark Software](#benchmark-software)
+- [Benchmark Results](#benchmark-results)
 - [Submit Updates, Errors, and New Ideas 💡](#submit-updates-errors-and-new-ideas-)
 
 ## [](#menu) Hardware Diagnostic Tools
@@ -81,10 +82,24 @@
 - **[Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)**
 - **[Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)**
 
-## **Benchmark Software**
-* [OCCT](https://www.ocbase.com/)
 
+## **Benchmark Software**
+* [OCCT](https://www.ocbase.com/) - Benchmark Multitool.
+* [FurMark](https://geeks3d.com/furmark/) - GPU Stress Test
+OpenGL and Vulkan Graphics Benchmark.
+* [SilverBench](https://silver.urih.com/) - fast and easy multicore CPU benchmark that runs directly in your browser using JavaScript.
+* [UserBenchmark](https://www.userbenchmark.com/Software) - A computer benchmarking website that provides users with performance scores for various hardware components.
+* [GeekBench](https://www.geekbench.com/) - a cross-platform benchmark that measures your system's performance with the press of a button. 
+* [3DMark](https://www.3dmark.com/) - 3DMark is your benchmarking multitool for testing and comparing your gaming gear.
+
+
+## **Benchmark Results**
+* [PassMark](https://www.passmark.com/) | [CPU](https://www.cpubenchmark.net/) | [GPU](https://www.videocardbenchmark.net/) | [HDD](https://www.harddrivebenchmark.net/) | [RAM](https://www.memorybenchmark.net/) | [PCB](https://www.pcbenchmarks.net/) | [SMS](https://www.softwaremarketshare.net/) | [DBB](https://www.databasebenchmarks.net/) | [AB](https://www.androidbenchmark.net/) | [iOSB](https://www.iphonebenchmark.net/) - Benchmarking & Diagnostic Software 
+* [SSD-Tester](https://ssd-tester.com/) - Benchmark reviews for M.2 NVMe SSDs, SATA SSDs, and USB flash drives.
+
+## **Guides**
+* [iFixIT Guides](https://www.ifixit.com/Guide) - Plethora of repair guides.
 
 ## Submit Updates, Errors, and New Ideas 💡
 - **Errors**: If you encounter any errors or issues while using the website, please [submit an issue](https://github.com/MRCYODev/Computer-Technician-Tools/issues) on GitHub.
-- **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/Computer-Technician-Tools/issues) on GitHub!
+- **New Ideas**: Have a new feature idea or suggestion for the website? Feel free to [share it with us](https://github.com/MRCYODev/Computer-Technician-Tools/discussions) on GitHub!
