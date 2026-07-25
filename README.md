@@ -1,7 +1,7 @@
 <h1 align="center">🛠️ Computer Technician Tools⚙️ </h1>
 <p>Welcome to the Computer Technician Tools repository! This collection of tools is designed to assist computer technicians in diagnosing, repairing, and optimizing computers. Whether you're a seasoned professional or just starting out, you'll find valuable utilities here to streamline your workflow and improve efficiency.</p>
 
-<h2 align="center"><p><a href="/src/windows/commands.md">Windows</a></p>/<p><a href="/src/linux/commands.md">Linux</a></p></h2>
+<h2 align="center"><p><a href="/src/windows/windows.md">Windows</a></p>/<p><a href="/src/linux/linux.md">Linux</a></p>/<p><a href="/src/android/android.md">Android</a></p></h2>
 
 ## Menu
 
